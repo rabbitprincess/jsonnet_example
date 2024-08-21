@@ -1,0 +1,9 @@
+{
+   "arg1": "Arg1",
+   "arg2": "Arg2",
+   "arg3": "Arg3",
+   "l2GenesisBlockDifficulty": "0x0",
+   "l2GenesisBlockGasLimit": "0x1c9c380",
+   "l2GenesisBlockGasUsed": "0",
+   "l2GenesisBlockNonce": "1"
+}
